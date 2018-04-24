@@ -1,1 +1,3 @@
-angularjs-sample-app
+# angularjs-sample-app
+
+AngularJS sample application
